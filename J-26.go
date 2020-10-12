@@ -1,10 +1,10 @@
 package main
 
- type TreeNode struct {
-	    Val int
-	    Left *TreeNode
-	    Right *TreeNode
-	 }
+type TreeNode struct {
+	Val int
+	Left *TreeNode
+	Right *TreeNode
+}
 
 func isSubStructure(A *TreeNode, B *TreeNode) bool {
 	if B==nil||A==nil {
@@ -34,4 +34,3 @@ func doesT1HasT2(A *TreeNode, B *TreeNode) bool {
 	}
 	return doesT1HasT2(A.Left,B.Left) && doesT1HasT2(A.Right,B.Right)
 }
-
