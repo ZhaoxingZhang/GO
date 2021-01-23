@@ -1,2 +1,2 @@
-<p>jzoffer = 剑指offer</p>
-<p>shell = shell脚本命令</p>
+<p>jzoffer = 剑指offer刷题</p>
+<p>shell = shell命令备份</p>
