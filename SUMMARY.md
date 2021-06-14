@@ -18,6 +18,8 @@
 ## 计算机网络
 
 * [Content](ji-suan-ji-wang-luo/content.md)
+* [wochat如何发消息的？](ji-suan-ji-wang-luo/wochat-ru-he-fa-xiao-xi-de.md)
+* [Untitled](ji-suan-ji-wang-luo/untitled.md)
 
 ## 分布式系统
 
