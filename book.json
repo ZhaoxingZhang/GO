@@ -1,9 +1,9 @@
 {
     "plugins": [
-	"chapter-fold",
-	""code"",
-	"splitter",
-	"back-to-top-button",
-	"pageview-count"
-	]
+        "chapter-fold",
+        "code",
+        "splitter",
+        "back-to-top-button",
+        "pageview-count"
+        ]
 }
